@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I’m a frontend developer at [Here](https://here.com/en), [passionate photographer](http://morning.photos/), coffee drinker and crazy dogs’ owner living in Berlin, Germany.
+I’m a [frontend developer](http://sapegin.me/) at [Here](https://here.com/en), [passionate photographer](http://morning.photos/), coffee drinker and crazy dogs’ owner living in Berlin, Germany.
 
 I get some questions by email or Twitter. This way anyone can read the answer!
 
