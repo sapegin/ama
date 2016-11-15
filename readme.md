@@ -25,3 +25,4 @@ Frontend, open source, tools, blogging, photography, dogs vs. cats, etc.
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+- [Ask Me Anything is the new way of blogging](https://medium.com/@sapegin/ask-me-anything-is-a-new-way-of-blogging-2653220e32db#.qalwqotgz)
