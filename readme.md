@@ -8,8 +8,6 @@ I get some questions by email or Twitter. This way anyone can read the answer!
 
 Frontend, open source, tools, blogging, photography, dogs vs. cats, etc.
 
--
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
